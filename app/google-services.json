@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "313365358582",
+    "firebase_url": "https://communweb-b0e15.firebaseio.com",
+    "project_id": "communweb-b0e15",
+    "storage_bucket": "communweb-b0e15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313365358582:android:bdf47806fd11ea65",
+        "android_client_info": {
+          "package_name": "commun.cherestal.communweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313365358582-2fm0bo3s45d3721c8o3e4g7seeph90r8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "commun.cherestal.communweb",
+            "certificate_hash": "42caffd5867072d9f6474c2ab7720d76e1737ca8"
+          }
+        },
+        {
+          "client_id": "313365358582-42oftjrea6jlb6453np8kvq8n13htvap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzFc4bMf3iPgvMSrGuJUhZG0oObgJ1xjY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313365358582-42oftjrea6jlb6453np8kvq8n13htvap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
